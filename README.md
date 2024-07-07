@@ -1,4 +1,5 @@
 <h1 align="center">Hello, I'm Akshat Biniwale</h1>
+<image align="right" width="550" height="550" src="https://private-user-images.githubusercontent.com/74038190/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjAzNTI2NTIsIm5iZiI6MTcyMDM1MjM1MiwicGF0aCI6Ii83NDAzODE5MC8yNDIzOTA2OTItMGIzMzUwMjgtMWQzZC00ZWU1LWI1YjMtYTM3M2Q0OTliZTdlLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA3MDclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNzA3VDExMzkxMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWFjNTZjYzk0ZmQ4YjJjNmMzYTU5YWU2YmViMTQ3Y2U4NTMxZGU3N2EwZjViY2Y0NWYxODFkYjNmMzg4Y2E2ZGYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.KXS2R69bmRoQTvlYfnRFTb5GI_FB9HIAHUSjDPUrYL0"/>
 <h3>A upcoming Data Analyst at <a href="https://github.com/workindia" target="blank">WorkIndia</a></h3>
 
 - 🌱 I’m currently learning **ML**
