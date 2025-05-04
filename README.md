@@ -1,10 +1,20 @@
-<h1 align="center">Hello, I'm Akshat Biniwale</h1>
-<image align="right" width="525" height="525" src="https://private-user-images.githubusercontent.com/74038190/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzEzMDc1MzUsIm5iZiI6MTczMTMwNzIzNSwicGF0aCI6Ii83NDAzODE5MC8yNDIzOTA2OTItMGIzMzUwMjgtMWQzZC00ZWU1LWI1YjMtYTM3M2Q0OTliZTdlLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDExMTElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMTExVDA2NDAzNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTVmMDk5ZmUzYzM1ZWU3NTQwZWQ2OGE3NDliMWRlM2QwNjVmYzJjNTA5NjdkY2VlZjllNDNkMTQ5NDFkNjUyMzgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.2KHVKobw9DbJi8AVQFJ2XM1cHNfLw4p3L0u_DULIW9s"/>
-<h3>A upcoming Data Analyst at <a href="https://github.com/workindia" target="blank">WorkIndia</a></h3>
+<h1 align="center">Hi there 👋, I'm Akshat Biniwale</h1>
 
-- 🌱 I’m currently learning **ML**
+<p>
+  🚀 Aspiring Software Engineer | MERN Stack Developer | Data Analyst Intern @ 
+  <a href="https://workindia.in/" target="_blank">WorkIndia</a><br/>
+<br/>
+  💡 I love using technology to solve real problems. I mainly work with the MERN stack to build web apps that can grow with more users. As a Data Analyst Intern, I enjoy turning messy data into useful information. Whether I’m writing code or studying data, I like creating things that help people. I'm always learning and excited to grow as a developer by working on meaningful projects.
+</p>
 
-- 📫 How to reach me **akshatbiniwale@gmail.com**
+<br/>
+
+<image align="right" height="550" src="https://drive.google.com/uc?export=view&id=1Yyqm_nVQXOi3wzx9KAkMqH0ZHEMkV2N3"/>
+<h3>🛠️ What I Do</h3>
+
+- 👨‍💻 Currently working as a <strong>Data Analyst Intern</strong>, converting soon to full-time.</li>
+- 🔀 Actively working towards a <strong>Software Development Engineer (SDE)</strong> role.</li>
+- 💻 Built multiple <strong>full-stack applications</strong> </br> and internal <strong>automation systems</strong>.</li>
 
 <h3 align="left">Github Trophies:</h3>
 <p align="left">
@@ -21,9 +31,9 @@
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
             alt="akshatbiniwale" height="35.5" width="50" /></a>
         &nbsp;
-    <a href="https://auth.geeksforgeeks.org/user/akshatbiniwale_" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg"
-            alt="akshatbiniwale_" height="35.5" width="50" /></a>
+    <a href="https://akshatbiniwale.in/" target="blank"><img align="center"
+            src="https://akshatbiniwale.in/logo.svg"
+            alt="akshatbiniwale" height="35.5" width="50" /></a>
         &nbsp;
 </p>
 
@@ -33,39 +43,39 @@
             height="50" /></a> &nbsp;&nbsp; <a href="https://www.w3schools.com/cpp/" target="_blank"
         rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
-            alt="cplusplus" width="50" height="50" /></a> &nbsp;&nbsp; <a href="https://www.w3schools.com/css/"
-        target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-            alt="css3" width="50" height="50" /></a> &nbsp;&nbsp; <a href="https://www.figma.com/" target="_blank"
-        rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="50"
-            height="50" /></a> &nbsp;&nbsp; <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-            alt="html5" width="50" height="50" /></a> &nbsp;&nbsp; <a href="https://www.java.com" target="_blank"
+            alt="cplusplus" width="50" height="50" /></a> &nbsp;&nbsp; <a href="https://www.java.com" target="_blank"
         rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java"
-            width="50" height="50" /></a> &nbsp;&nbsp; <a
+            width="50" height="50" /></a> &nbsp;&nbsp; <a href="https://www.python.org"
+        target="_blank" rel="noreferrer"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+            alt="python" width="50" height="50" /></a> &nbsp;&nbsp; <a
         href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-            alt="javascript" width="50" height="50" /></a> &nbsp;&nbsp; <a href="https://www.mongodb.com/"
+            alt="javascript" width="50" height="50" /></a> &nbsp;&nbsp; <a href="https://www.w3schools.com/css/"
+        target="_blank" rel="noreferrer"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
+            alt="css3" width="50" height="50" /></a> &nbsp;&nbsp; <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+            alt="html5" width="50" height="50" /></a> &nbsp;&nbsp; <a href="https://reactjs.org/" target="_blank"
+        rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+            alt="react" width="50" height="50" /></a> &nbsp;&nbsp; <a href="https://tailwindcss.com/"
+        target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
+            alt="tailwind" width="50" height="50" /></a> &nbsp;&nbsp; <a href="https://nodejs.org" target="_blank"
+        rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
+            alt="nodejs" width="50" height="50" /></a> &nbsp;&nbsp; <a href="https://www.mongodb.com/"
         target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
             alt="mongodb" width="50" height="50" /></a> &nbsp;&nbsp; <a href="https://www.mysql.com/"
         target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-            alt="mysql" width="50" height="50" /></a> &nbsp;&nbsp; <a href="https://nodejs.org" target="_blank"
-        rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-            alt="nodejs" width="50" height="50" /></a> &nbsp;&nbsp; <a href="https://www.postgresql.org"
+            alt="mysql" width="50" height="50" /></a> &nbsp;&nbsp; <a href="https://www.postgresql.org"
         target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
             alt="postgresql" width="50" height="50" /></a> &nbsp;&nbsp; <a href="https://postman.com"
         target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
-            alt="postman" width="50" height="50" /></a> &nbsp;&nbsp; <a href="https://www.python.org"
-        target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-            alt="python" width="50" height="50" /></a> &nbsp;&nbsp; <a href="https://reactjs.org/" target="_blank"
-        rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-            alt="react" width="50" height="50" /></a> &nbsp;&nbsp; <a href="https://tailwindcss.com/"
-        target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
-            alt="tailwind" width="50" height="50" /></a> &nbsp;&nbsp; </p>
+            alt="postman" width="50" height="50" /></a> &nbsp;&nbsp; </p>
+
+
