@@ -1,10 +1,10 @@
 <h1 align="center">Hi there 👋, I'm Akshat Biniwale</h1>
 
 <p>
-  🚀 Aspiring Software Engineer | MERN Stack Developer | Data Analyst Intern @ 
+  🚀 SDE I | Django Developer @ 
   <a href="https://workindia.in/" target="_blank">WorkIndia</a><br/>
 <br/>
-  💡 I love using technology to solve real problems. I mainly work with the MERN stack to build web apps that can grow with more users. As a Data Analyst Intern, I enjoy turning messy data into useful information. Whether I’m writing code or studying data, I like creating things that help people. I'm always learning and excited to grow as a developer by working on meaningful projects.
+  💡 I'm a Computer Science Engineering graduate who loves using technology to solve real-world problems. I primarily work with the Django stack to build scalable web applications. At WorkIndia, I contribute to backend-heavy, revenue-impacting features and help keep systems stable in production. I'm passionate about building things that create value, learning new technologies, and growing as a developer through meaningful work.
 </p>
 
 <h3>📫 Connect with me: </h3>
@@ -18,8 +18,8 @@
 <image align="right" height="500" src="https://drive.google.com/uc?export=view&id=1Yyqm_nVQXOi3wzx9KAkMqH0ZHEMkV2N3"/>
 <h3>🛠️ What I Do</h3>
 
-- 👨‍💻 Currently working as a <strong>Data Analyst Intern</strong>, converting soon to full-time.</li>
-- 🔀 Actively working towards a <strong>Software Development Engineer (SDE)</strong> role.</li>
+- 👨‍💻 Currently working as a <strong>SDE I</strong>, building scalable systems.</li>
+- 🔧  Contribute to <strong>backend-heavy, revenue-impacting features</strong> and system stability in production.</li>
 - 💻 Built multiple <strong>full-stack applications</strong> and internal <strong>automation systems</strong>.</li>
 
 <h3 align="left">Github Trophies:</h3>
@@ -48,9 +48,9 @@
             alt="html5" width="50" height="50" /></a> &nbsp;&nbsp; <a href="https://reactjs.org/" target="_blank"
         rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-            alt="react" width="50" height="50" /></a> &nbsp;&nbsp; <a href="https://tailwindcss.com/"
-        target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
-            alt="tailwind" width="50" height="50" /></a> &nbsp;&nbsp; <a href="https://nodejs.org" target="_blank"
+            alt="react" width="50" height="50" /></a> &nbsp;&nbsp; <a href="https://www.djangoproject.com/"
+        target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg"
+            alt="django" width="50" height="50" /></a> &nbsp;&nbsp; <a href="https://nodejs.org" target="_blank"
         rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
             alt="nodejs" width="50" height="50" /></a> &nbsp;&nbsp; <a href="https://www.mongodb.com/"
